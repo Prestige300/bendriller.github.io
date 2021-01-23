@@ -369,7 +369,7 @@
 			"wowID":"19397"
 		},
 		"Rejuvenating Gem":{
-			"prio":["Kare","Navia","Soldeia","Healer EP/GP"],
+			"prio":["Kare","Navia","Healer EP/GP"],
 			"gp":"10",
 			"wowID":"19395"
 		},
@@ -506,7 +506,7 @@
 			"wowID":"19392"
 		},
 		"Empowered Leggings":{
-			"prio":["Lianli","Claris","EP/GP"],
+			"prio":["EP/GP"],
 			"gp":"8",
 			"wowID":"19385"
 		},
@@ -638,7 +638,7 @@
 			"wowID":"19376"
 		},
 		"Pure Elementium Band":{
-			"prio":["Healers W/O at least 1 bis epic ring","Kare","Navia","Dr","Healer EP/GP"],
+			"prio":["Healers W/O at least 1 bis epic ring","Navia","Dr","Healer EP/GP"],
 			"gp":"5",
 			"wowID":"19382"
 		},
